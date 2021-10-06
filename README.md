@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wendymunoz
+- 👀 I’m interested in mobile development but currently developing websites.
+- 🌱 I’m currently learning Typescript and Angular.
+- 📫 Reach me emailing to me at wendymunoz4@gmail.com
+- 💻 Deploying my website soon for more information.
